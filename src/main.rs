@@ -1,4 +1,4 @@
-pub mod Strings;
+pub mod structure;
 fn main() {
-    Strings::run();
+    structure::run();
 }
